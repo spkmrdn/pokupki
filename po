@@ -1,0 +1,9 @@
+[Adblock plus 2.0]
+wildberries.ru##button
+ozon.ru##button
+aliexpress.ru##button
+mvideo.ru##button
+market.yandex.ru##button
+citilink.ru##button
+dns-shop.ru##button
+lamoda.ru##button
